@@ -1,4 +1,4 @@
-import LOCAL_URL from "./config"
+import {LOCAL_URL} from "./config"
 
 const TODO_PREFIX = "todos";
 const URL_TODO_GET_ALL =(sort="")=>{
