@@ -44,7 +44,7 @@ Install MongoDB on CentoOS 8
 ### Step 3:
 Config MongoDB Databse
 ### Step 4:
-- Adjusting the Firewall for Node port & Remote Access for MongoDB. So my ip (14.176.232.xx) can remote access to the database
+- Adjusting the Firewall for Node port & Remote Access for MongoDB. So my ip (1x.1x6.xxx.xx) can remote access to the database
 ### Step 5:
 - Coding
 ### Step 6: 
